@@ -1,3 +1,26 @@
+@article{pham2023lp,
+  abbr={WACV},
+  title={LP-OVOD: Open-Vocabulary Object Detection by Linear Probing},
+  author={Pham*, Chau and Vu*, Truong and Nguyen, Khoi},
+  selected = {true},
+  journal={Winter Conference on Applications of Computer Vision},
+  published={true},
+  year={2023},
+  pdf={https://arxiv.org/pdf/2310.17109v1.pdf},
+  abstract={This paper addresses the challenging problem of openvocabulary object detection (OVOD) where an object detector must identify both seen and unseen classes in test images
+without labeled examples of the unseen classes in training.
+A typical approach for OVOD is to use joint text-image embeddings of CLIP to assign box proposals to their closest
+text label. However, this method has a critical issue: many
+low-quality boxes, such as over- and under-covered-object
+boxes, have the same similarity score as high-quality boxes
+since CLIP is not trained on exact object location information. To address this issue, we propose a novel method, LPOVOD, that discards low-quality boxes by training a sigmoid linear classifier on pseudo labels retrieved from the
+top relevant region proposals to the novel text. Experimental results on COCO affirm the superior performance of
+our approach over the state of the art, achieving 40.5 in
+APnovel using ResNet50 as the backbone and without external datasets or knowing novel classes during training.
+Our code will be available at https://github.com/
+VinAIResearch/LP-OVOD.}
+}
+
 @article{nguyen2022few,
   abbr = {ECCV},
   title={Few-shot object counting and detection},
