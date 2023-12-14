@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amateur3673.github.io/sitemap.xml
+Sitemap: https://chaupham1709.github.io/sitemap.xml
