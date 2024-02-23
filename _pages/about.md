@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 My name is Chau Pham. Currently, I am a first-year Ph.D. Student in Computer Science and Engineering at University
-at Buffalo. I am advised by Professor [Jinhui Xu](https://cse.buffalo.edu/~jinhui/) and Professor [Ifeoma Nwogu](https://cubs.buffalo.edu/~inwogu/index.html). Before joining UB, I received the bachelor degree from honors program at School of Mechanical Engineering, Hanoi University of Science and Technology. In addition, I spent two years working as an AI Resident at VinAI, under the supervision of 
+at Buffalo. I am advised by Professor [David Doermann](https://cse.buffalo.edu/~doermann/index.html). Before joining UB, I received the bachelor degree from honors program at School of Mechanical Engineering, Hanoi University of Science and Technology. In addition, I spent two years working as an AI Resident at VinAI, under the supervision of 
 Dr. [Khoi Nguyen](https://www.khoinguyen.org/). 
 
 My research interests lie within Machine Learning and Computer Vision, including Generative Model for generating 
