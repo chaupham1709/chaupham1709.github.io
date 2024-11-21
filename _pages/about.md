@@ -19,12 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Chau Pham. Currently, I am a first-year Ph.D. Student in Computer Science and Engineering at University
-at Buffalo. I am advised by Professor [David Doermann](https://cse.buffalo.edu/~doermann/index.html). Before joining UB, I received the bachelor degree from honors program at School of Mechanical Engineering, Hanoi University of Science and Technology. In addition, I spent two years working as an AI Resident at VinAI, under the supervision of 
+My name is Chau Pham. Currently, I am a Ph.D. Student in Computer Science and Engineering at University
+at Buffalo. I am advised by Professor [David Doermann](https://cse.buffalo.edu/~doermann/index.html). Before joining UB, I received the bachelor degree from the honors program at the School of Mechanical Engineering, Hanoi University of Science and Technology. In addition, I spent two years working as an AI Resident at VinAI, under the supervision of 
 Dr. [Khoi Nguyen](https://www.khoinguyen.org/). 
 
 My research interests lie within Machine Learning and Computer Vision, including Generative Model for generating 
-high quality images/videos, Object Detection and Few-shot Learning problems.
+high-quality images/videos, Object Detection, and Few-shot Learning problems.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
