@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>203 Davis Hall</p>
+    <p>301B Hall</p>
+    <p>Department of Computer Science</p>
     <p>University at Buffalo</p>
     <p>Buffalo, NY</p>
 
