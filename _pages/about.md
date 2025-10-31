@@ -24,7 +24,7 @@ My name is Chau Pham. Currently, I am a Ph.D. Student in Computer Science and En
 at Buffalo. I am advised by Professor [David Doermann](https://cse.buffalo.edu/~doermann/index.html). Before joining UB, I received the bachelor degree from the honors program at the School of Mechanical Engineering, Hanoi University of Science and Technology. In addition, I spent two years working as an AI Resident at VinAI, under the supervision of 
 Dr. [Khoi Nguyen](https://www.khoinguyen.org/). 
 
-My research interests focus on Computer Vision problems, including Large Vision-Language Model and Image generation/editing. More specifically, I work on improving the current image generation/editing method, and combine the Large Vision-Language to improve the generation and perception problems.
+My research interests lie in the field of Computer Vision, with a particular focus on advancing image/video generation by improving both quality and efficiency, as well as exploring its downstream applications, including image/video editing, personalization, and RL optimization. I am also interested in challenges surrounding Large Vision-Language Models (LVLMs), particularly personalization and reasoning, as well as leveraging LVLMs to enhance other tasks such as image generation and scene understanding.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
